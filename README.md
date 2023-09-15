@@ -6,5 +6,5 @@ NAMA  KELOMPOK: TURU
 <br>ANGGOTA 1: DHIYAA AMALIA PUTRI - 21/479811/TK/52942
 <br>ANGGOTA 2: HIZKIA JOY IVAN - 21/479490/TK/52909
 
-Class Diagram
-![image](https://github.com/HizkiaJoyIvan/uangtua/assets/73729671/b0d1370e-97e1-425c-8540-395dc54838fb)
+<br>Class Diagram
+<br>![image](https://github.com/HizkiaJoyIvan/uangtua/assets/73729671/b0d1370e-97e1-425c-8540-395dc54838fb)
