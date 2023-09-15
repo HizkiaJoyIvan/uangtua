@@ -7,4 +7,5 @@ NAMA  KELOMPOK: TURU
 <br>ANGGOTA 2: HIZKIA JOY IVAN - 21/479490/TK/52909
 
 <br>Class Diagram
-<br>![image](https://github.com/HizkiaJoyIvan/uangtua/assets/73729671/b0d1370e-97e1-425c-8540-395dc54838fb)
+<br>![image](https://github.com/HizkiaJoyIvan/uangtua/assets/24343313/c4d2c875-8c6b-4843-84d4-81383d8fe92c)
+
