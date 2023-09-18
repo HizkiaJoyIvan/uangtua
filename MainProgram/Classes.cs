@@ -17,10 +17,42 @@ namespace MainProgram
     {
         public Income() { }
     }
+
     public class Expense
     {
-        public Expense() { }
+        public int ExpenseId { get; set; }
+        public string Title { get; set; }
+        public string Category { get; set; }
+        public int Amount { get; set; }
+        public string Type { get; set; }
+        public DateTime Date { get; set; }
+        public string Description { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public int UserId { get; set; }
+
+        public Expense(
+            int expenseId,
+            string title,
+            string category,
+            int amount,
+            string type,
+            DateTime date,
+            string description,
+            DateTime createdAt,
+            int userId)
+        {
+            ExpenseId = expenseId;
+            Title = title;
+            Category = category;
+            Amount = amount;
+            Type = type;
+            Date = date;
+            Description = description;
+            CreatedAt = createdAt;
+            UserId = userId;
+        }
     }
+
     public class ExpenseCategory
     {
         public ExpenseCategory() { }
