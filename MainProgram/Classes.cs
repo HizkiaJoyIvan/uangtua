@@ -8,10 +8,26 @@ namespace MainProgram
 {
     public class User
     {
-        public User()
+        public User(
+        int userid,
+        string username,
+        string email,
+        string contacs,
+        string password)
         {
-
+           UserID = userid;
+           Username = username;
+           Email = email;
+           Contacs = contacs;
+           Password = password;
+           
         }
+        public int UserID { get; set; }
+        public string Username { get; set; }
+        public string Email { get; set; }
+        public string Contacs { get; set; }
+        public string Password { get; set; }
+
     }
     public class Income
     {
