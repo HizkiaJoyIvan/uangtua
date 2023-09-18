@@ -163,19 +163,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\uang tua\\uangtua\\MainProgram\\MainProgram.csproj",
       "projectName": "MainProgram",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\obj\\",
+      "projectPath": "C:\\Users\\User\\source\\repos\\uang tua\\uangtua\\MainProgram\\MainProgram.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\uang tua\\uangtua\\MainProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
