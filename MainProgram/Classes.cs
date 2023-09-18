@@ -27,12 +27,39 @@ namespace MainProgram
         public string Email { get; set; }
         public string Contacs { get; set; }
         public string Password { get; set; }
-
     }
+
     public class Income
     {
-        public Income() { }
+        public Income(
+        int incomeid,
+        string title,
+        int catagoryid,
+        int amount,
+        string type,
+        string description,
+        DateTime createAt,
+        int userid)
+        {
+            IncomeId = incomeid;
+            Title = title;
+            CatagoryId = catagoryid;
+            Amount = amount;
+            TypeIncome = type;
+            Description = description;
+            CreatedAt = createAt;
+            UserId = userid;
+        }
+        public int IncomeId { get; set; }
+        public string Title { get; set; }
+        public int CatagoryId { get; set; }
+        public int Amount { get; set; }
+        public string TypeIncome { get; set; }
+        public string Description { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public int UserId { get; set; }
     }
+}
 
     public class Expense
     {
