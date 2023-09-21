@@ -163,34 +163,19 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\User\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\": {}
->>>>>>> 63312f2 (test)
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\uang tua\\uangtua\\MainProgram\\MainProgram.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj",
       "projectName": "MainProgram",
-      "projectPath": "C:\\Users\\User\\source\\repos\\uang tua\\uangtua\\MainProgram\\MainProgram.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\uang tua\\uangtua\\MainProgram\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-      "projectUniqueName": "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\MainProgram.csproj",
-      "projectName": "MainProgram",
-      "projectPath": "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\MainProgram.csproj",
-      "packagesPath": "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\Dhiyaa Amalia\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 63312f2 (test)
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -243,5 +228,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -1,22 +1,19 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "o4AC5LqbjnhvlH9F5KYibPn3+9TwtrzItFk1yl+c0066qSm7JNFMN5HYH7xKW5W/pVGomUw9XPcPRpc7c3PWbw==",
+  "dgSpecHash": "m/ouJhxoDMWuzU32+K2jQvkg3/ydTvQyvN8NMFGS1U/9NSqjvNBlUqRctmjR4QyZ/i6VyX0v9a2v3GEk7b9FJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\uang tua\\uangtua\\MainProgram\\MainProgram.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-=======
-  "dgSpecHash": "zEL1AQR4K1m3oeQVOdeT+q2yO9ijZfJKSo/sRk2kIIqz7YdCwqcuIfcMVDWvJ/9zOISov1f9kqVrQyt2yLTnyQ==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\MainProgram.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
-    "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
->>>>>>> 63312f2 (test)
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Lenovo\\source\\repos\\uangtua\\MainProgram\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
