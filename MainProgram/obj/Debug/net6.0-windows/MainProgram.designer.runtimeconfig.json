@@ -12,18 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "C:\\Users\\Dhiyaa Amalia\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Lenovo\\.nuget\\packages"
-=======
-      "C:\\Users\\User\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\User\\.nuget\\packages"
->>>>>>> daa4acff113c8646db6549f91942db5dabff188b
-=======
       "C:\\Users\\Dhiyaa Amalia\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages"
->>>>>>> 63312f2 (test)
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

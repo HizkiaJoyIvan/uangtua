@@ -22,11 +22,11 @@ namespace MainProgram
            Password = password;
            
         }
-        public int UserID { get; set; }
-        public string Username { get; set; }
-        public string Email { get; set; }
-        public string Contacs { get; set; }
-        public string Password { get; set; }
+                public int UserID { get; set; }
+                public string Username { get; set; }
+                public string Email { get; set; }
+                public string Contacs { get; set; }
+                public string Password { get; set; }
     }
 
     public class Income
@@ -50,14 +50,14 @@ namespace MainProgram
             CreatedAt = createAt;
             UserId = userid;
         }
-        public int IncomeId { get; set; }
-        public string Title { get; set; }
-        public int CatagoryId { get; set; }
-        public int Amount { get; set; }
-        public string TypeIncome { get; set; }
-        public string Description { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public int UserId { get; set; }
+                public int IncomeId { get; set; }
+                public string Title { get; set; }
+                public int CatagoryId { get; set; }
+                public int Amount { get; set; }
+                public string TypeIncome { get; set; }
+                public string Description { get; set; }
+                public DateTime CreatedAt { get; set; }
+                public int UserId { get; set; }
     }
 }
 
