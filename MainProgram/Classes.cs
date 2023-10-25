@@ -59,7 +59,7 @@ namespace MainProgram
         public DateTime CreatedAt { get; set; }
         public int UserId { get; set; }
     }
-}
+
 
     public class Expense
     {
