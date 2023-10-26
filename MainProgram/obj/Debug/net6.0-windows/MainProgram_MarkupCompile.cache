@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\User\source\repos\uang tua\uangtua\MainProgram\obj\Debug\net6.0-windows\
+C:\Users\User\source\repos\uangtua\MainProgram\obj\Debug\net6.0-windows\
 MainProgram
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\User\source\repos\uang tua\uangtua\MainProgram\App.xaml
-11407045341
+C:\Users\User\source\repos\uangtua\MainProgram\App.xaml
+3-110362781
 
-4-1052756374
-194726069201
-MainWindow.xaml;
+661344108
+196541396220
+Dashboard.xaml;Login.xaml;Register.xaml;
 
-True
+False
 
