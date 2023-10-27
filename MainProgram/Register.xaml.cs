@@ -23,5 +23,14 @@ namespace MainProgram
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 targetWindow = new Window1();
+
+            // Show the target window
+            targetWindow.Show();
+            this.Close();
+        }
     }
 }
