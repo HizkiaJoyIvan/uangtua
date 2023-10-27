@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zEL1AQR4K1m3oeQVOdeT+q2yO9ijZfJKSo/sRk2kIIqz7YdCwqcuIfcMVDWvJ/9zOISov1f9kqVrQyt2yLTnyQ==",
+  "dgSpecHash": "fMse1l33ImXsgdtmnNzgOhsS0W5oL/9GkCQWlfEp8K1obZC30ISGOAmsS8y35bBPZ60qz8LpYblkmFtoEctMxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\MainProgram.csproj",
+  "projectFilePath": "C:\\Users\\Dhiyaa Amalia\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
     "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
     "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
@@ -13,7 +15,27 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problem reading the cache file C:\\Users\\Dhiyaa Amalia\\source\\repos\\uangtua\\MainProgram\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LiveCharts.Wpf 0.9.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
     }
   ]
 }

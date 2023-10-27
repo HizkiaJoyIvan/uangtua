@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\MainProgram.csproj": {}
+    "C:\\Users\\Dhiyaa Amalia\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\MainProgram.csproj": {
+    "C:\\Users\\Dhiyaa Amalia\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\MainProgram.csproj",
+        "projectUniqueName": "C:\\Users\\Dhiyaa Amalia\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj",
         "projectName": "MainProgram",
-        "projectPath": "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\MainProgram.csproj",
+        "projectPath": "C:\\Users\\Dhiyaa Amalia\\source\\repos\\uangtua\\MainProgram\\MainProgram.csproj",
         "packagesPath": "C:\\Users\\Dhiyaa Amalia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dhiyaa Amalia\\Source\\Repos\\uangtua\\MainProgram\\obj\\",
+        "outputPath": "C:\\Users\\Dhiyaa Amalia\\source\\repos\\uangtua\\MainProgram\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Dhiyaa Amalia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +45,10 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "dependencies": {
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
             "Npgsql": {
               "target": "Package",
               "version": "[7.0.4, )"

@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Dhiyaa Amalia\Source\Repos\uangtua\MainProgram\obj\Debug\net6.0-windows\
+=======
+C:\Users\Lenovo\Source\Repos\uangtua\MainProgram\obj\Debug\net6.0-windows\
+>>>>>>> 7a5383bb929ea2c926890196ffc2810c9b07bb52
 MainProgram
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+<<<<<<< HEAD
 C:\Users\Dhiyaa Amalia\Source\Repos\uangtua\MainProgram\App.xaml
 11407045341
 
 4-1052756374
 1961381420740
 MainWindow.xaml;
+=======
+C:\Users\Lenovo\Source\Repos\uangtua\MainProgram\App.xaml
+3-110362781
 
-True
+661344108
+198-1834905440
+Dashboard.xaml;Login.xaml;Register.xaml;
+>>>>>>> 7a5383bb929ea2c926890196ffc2810c9b07bb52
+
+False
 
