@@ -23,6 +23,13 @@ namespace MainProgram
             Incomes = new List<Income>();
             Expenses = new List<Expense>();
         }
+<<<<<<< HEAD
+                public int UserID { get; set; }
+                public string Username { get; set; }
+                public string Email { get; set; }
+                public string Contacs { get; set; }
+                public string Password { get; set; }
+=======
         public int UserID { get; set; }
         public string Username { get; set; }
         public string Email { get; set; }
@@ -30,6 +37,7 @@ namespace MainProgram
         public string Password { get; set; }
         public ICollection<Income> Incomes { get; set; }
         public ICollection<Expense> Expenses { get; set; }
+>>>>>>> 7a5383bb929ea2c926890196ffc2810c9b07bb52
     }
 
     public class Income
@@ -53,6 +61,16 @@ namespace MainProgram
             CreatedAt = createAt;
             UserId = userid;
         }
+<<<<<<< HEAD
+                public int IncomeId { get; set; }
+                public string Title { get; set; }
+                public int CatagoryId { get; set; }
+                public int Amount { get; set; }
+                public string TypeIncome { get; set; }
+                public string Description { get; set; }
+                public DateTime CreatedAt { get; set; }
+                public int UserId { get; set; }
+=======
         public int IncomeId { get; set; }
         public string Title { get; set; }
         public int CatagoryId { get; set; }
@@ -63,6 +81,7 @@ namespace MainProgram
         public int UserId { get; set; }
         public IncomeCategory IncomeCategory { get; set; }
         public User User { get; set; }
+>>>>>>> 7a5383bb929ea2c926890196ffc2810c9b07bb52
     }
     public class Expense
     {
